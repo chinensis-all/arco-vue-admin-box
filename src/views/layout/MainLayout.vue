@@ -81,7 +81,7 @@
           <footer class="footer">
             <div class="footer-inner">
               <div class="left">© 2025 <a href="https://mayanshe.com">码研社</a> V1.0.0</div>
-              <div class="right"><a-space><a-link href="#/about">关于我们</a-link><a-link href="https://github.com/repo" target="_blank">代码仓库</a-link><a-link href="https://example.com/issues" target="_blank">ISSUE</a-link></a-space></div>
+              <div class="right"><a-space><a-link href="https://zhangxihai.cn">关于我们</a-link><a-link href="https://github.com/chinensis-all/arco-vue-admin-box" target="_blank">代码仓库</a-link><a-link href="https://github.com/chinensis-all/arco-vue-admin-box/issues" target="_blank">Issues</a-link></a-space></div>
             </div>
           </footer>
         </div>
