@@ -1,0 +1,31 @@
+{
+  "name": "arco-vue-admin-box",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "type-check": "vue-tsc --noEmit -p tsconfig.json"
+  },
+  "dependencies": {
+    "vue": "^3.5.0",
+    "vue-router": "^4.3.0",
+    "vue-i18n": "^9.13.0",
+    "axios": "^1.7.0",
+    "@arco-design/web-vue": "^2.56.0",
+    "mockjs": "^1.1.0",
+    "echarts": "^5.5.0",
+    "vue-echarts": "^6.7.0",
+    "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@vitejs/plugin-vue": "^5.1.0",
+    "typescript": "^5.6.0",
+    "vite-plugin-mock": "^3.0.2",
+    "sass": "^1.79.0",
+    "vue-tsc": "^2.0.0"
+  }
+}

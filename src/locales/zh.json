@@ -1,0 +1,61 @@
+{
+  "app": {
+    "name": "Arco Vue Admin Box",
+    "search": "\u641c\u7d22...",
+    "about": "\u5173\u4e8e\u6211\u4eec",
+    "repo": "\u4ee3\u7801\u4ed3\u5e93",
+    "issue": "ISSUE",
+    "copyright": "\u00a9 2025"
+  },
+  "login": {
+    "title": "\u6b22\u8fce\u56de\u6765",
+    "account": "\u8d26\u53f7\u767b\u5f55",
+    "mobile": "\u624b\u673a\u9a8c\u8bc1\u7801\u767b\u5f55",
+    "username": "\u7528\u6237\u540d",
+    "password": "\u5bc6\u7801",
+    "mobileNo": "\u624b\u673a\u53f7",
+    "captcha": "\u77ed\u4fe1\u9a8c\u8bc1\u7801",
+    "sendCode": "\u53d1\u9001\u9a8c\u8bc1\u7801",
+    "login": "\u767b\u5f55",
+    "scanLogin": "\u626b\u7801\u767b\u5f55"
+  },
+  "header": {
+    "language": "\u5207\u6362\u8bed\u8a00",
+    "settings": "\u914d\u7f6e",
+    "inbox": "\u7ad9\u5185\u4fe1",
+    "mails": "\u90ae\u4ef6",
+    "profile": "\u4e2a\u4eba\u8d44\u6599",
+    "logout": "\u9000\u51fa\u767b\u5f55",
+    "exitFullscreen": "\u9000\u51fa\u5168\u5c4f",
+    "fullscreen": "\u5168\u5c4f"
+  },
+  "tabs": {
+    "notice": "\u901a\u77e5",
+    "alert": "\u62a5\u8b66",
+    "chat": "\u5bf9\u8bdd"
+  },
+  "footer": {
+    "about": "\u5173\u4e8e\u6211\u4eec",
+    "repo": "\u4ee3\u7801\u4ed3\u5e93",
+    "issue": "ISSUE"
+  },
+  "user": {
+    "title": "用户管理",
+    "add": "添加新用户",
+    "edit": "编辑用户",
+    "delete": "删除",
+    "forbid": "禁用",
+    "activate": "激活",
+    "assignRole": "分配角色",
+    "search": "搜索",
+    "reset": "重置",
+    "refresh": "刷新",
+    "columnSettings": "列设置",
+    "keywords": "关键词",
+    "scope": "用户类型",
+    "roles": "用户角色",
+    "status": "状态",
+    "ageRange": "年龄范围",
+    "createdAt": "创建时间"
+  }
+}

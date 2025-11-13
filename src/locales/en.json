@@ -1,0 +1,61 @@
+{
+  "app": {
+    "name": "Arco Vue Admin Box",
+    "search": "Search...",
+    "about": "About us",
+    "repo": "Repository",
+    "issue": "ISSUE",
+    "copyright": "\u00a9 2025"
+  },
+  "login": {
+    "title": "Welcome back",
+    "account": "Account Login",
+    "mobile": "Mobile Login",
+    "username": "Username",
+    "password": "Password",
+    "mobileNo": "Mobile Number",
+    "captcha": "SMS Code",
+    "sendCode": "Send code",
+    "login": "Sign in",
+    "scanLogin": "Scan to Login"
+  },
+  "header": {
+    "language": "Language",
+    "settings": "Settings",
+    "inbox": "Inbox",
+    "mails": "Mails",
+    "profile": "Profile",
+    "logout": "Logout",
+    "exitFullscreen": "Exit Fullscreen",
+    "fullscreen": "Fullscreen"
+  },
+  "tabs": {
+    "notice": "Notifications",
+    "alert": "Alerts",
+    "chat": "Chats"
+  },
+  "footer": {
+    "about": "About us",
+    "repo": "Repository",
+    "issue": "ISSUE"
+  },
+  "user": {
+    "title": "User Management",
+    "add": "Add New User",
+    "edit": "Edit User",
+    "delete": "Delete",
+    "forbid": "Forbid",
+    "activate": "Activate",
+    "assignRole": "Assign Roles",
+    "search": "Search",
+    "reset": "Reset",
+    "refresh": "Refresh",
+    "columnSettings": "Column Settings",
+    "keywords": "Keywords",
+    "scope": "User Type",
+    "roles": "User Roles",
+    "status": "Status",
+    "ageRange": "Age Range",
+    "createdAt": "Created At"
+  }
+}
