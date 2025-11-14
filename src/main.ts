@@ -8,6 +8,13 @@ import '@arco-design/web-vue/dist/arco.css';
 import '@/styles/index.scss';
 import { permission } from '@/directives/permission';
 
+// 生产环境 Mock
+if (import.meta.env.PROD) {
+  import('../mock/_createProdMockServer').then(({ setupProdMockServer }) => {
+    setupProdMockServer();
+  });
+}
+
 async function bootstrap() {
   await initRemoteRoutes();
   const app = createApp(App);

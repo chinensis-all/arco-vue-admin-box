@@ -7,8 +7,7 @@ export default defineConfig(({ command }) => ({
     vue(),
     viteMockServe({
       mockPath: 'mock',
-      localEnabled: command === 'serve',
-      prodEnabled: false
+      enable: command === 'serve'
     })
   ],
   resolve: { alias: { '@': '/src' } },
